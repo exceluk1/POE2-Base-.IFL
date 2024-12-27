@@ -1,0 +1,16 @@
+//----------------------------------------------
+// Body Armour - Energy 
+//----------------------------------------------
+
+ItemLevel >= 82 & ClassName.EndsWith("Body Armour")
+
+//----------------------------------------------
+// Main Currency
+//----------------------------------------------
+
+//BaseName == "Expert Hexer's Robe"
+
+//BaseName == "Expert Keth Raiment"
+
+//BaseName == "Expert Altar Robe"
+

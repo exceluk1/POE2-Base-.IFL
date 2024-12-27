@@ -1,0 +1,14 @@
+//----------------------------------------------
+// Weapons - Shields Armour  Energy Shield
+//----------------------------------------------
+
+ItemLevel >= 82 & ClassName.EndsWith("Shields")
+
+//----------------------------------------------
+// Main Currency
+//----------------------------------------------
+
+//BaseName == "Expert Omen Crest Shield"
+
+
+

@@ -1,0 +1,14 @@
+//----------------------------------------------
+// Body Armour - Evasion
+//----------------------------------------------
+
+ItemLevel >= 82 & ClassName.EndsWith("Body Armour")
+
+//----------------------------------------------
+// Main Currency
+//----------------------------------------------
+
+//BaseName == "Expert Scalper's Jacket"
+
+//BaseName == "Expert Wayfarer Jacket"
+

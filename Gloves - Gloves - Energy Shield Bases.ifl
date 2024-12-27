@@ -1,0 +1,14 @@
+//----------------------------------------------
+// Gloves - Energy Shield
+//----------------------------------------------
+
+ItemLevel >= 82 & ClassName.EndsWith("Gloves")
+
+//----------------------------------------------
+// Main Currency
+//----------------------------------------------
+
+//BaseName == "Expert Intricate Gloves"
+
+//BaseName == "Expert Wayfarer Jacket"
+

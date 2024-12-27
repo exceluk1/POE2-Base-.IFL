@@ -1,0 +1,15 @@
+//----------------------------------------------
+// Body Armour - Evasion
+//----------------------------------------------
+
+ItemLevel >= 82 & ClassName.EndsWith("Body Armour")
+
+//----------------------------------------------
+// Main Currency
+//----------------------------------------------
+
+//BaseName == "Expert Iron Cuirass"
+
+//BaseName == "Expert Vaal Cuirass"
+
+//BaseName == "Expert Steel Plate"

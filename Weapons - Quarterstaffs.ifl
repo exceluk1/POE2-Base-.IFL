@@ -1,0 +1,15 @@
+//----------------------------------------------
+// Weapons - Quarterstaffs
+//----------------------------------------------
+
+ItemLevel >= 82 & ClassName.EndsWith("Quarterstaves")
+
+//----------------------------------------------
+// Main Currency
+//----------------------------------------------
+
+//BaseName == "Expert Slicing Quarterstaff"
+
+//BaseName == "Expert Gothic Quarterstaff "
+
+//BaseName == "Expert Barrier Quarterstaff"

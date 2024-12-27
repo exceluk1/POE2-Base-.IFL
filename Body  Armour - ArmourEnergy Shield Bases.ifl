@@ -1,0 +1,16 @@
+//----------------------------------------------
+// Body Armour - Armour / Energy Shield
+
+//----------------------------------------------
+
+ItemLevel >= 82 & ClassName.EndsWith("Body Armour")
+
+//----------------------------------------------
+// Main Currency
+//----------------------------------------------
+
+//BaseName == "Expert Shaman Mantle"
+
+//BaseName == "Expert Sacrificial Mantle"
+
+

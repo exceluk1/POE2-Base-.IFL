@@ -1,0 +1,16 @@
+//----------------------------------------------
+// Weapons - Quiver
+//----------------------------------------------
+
+ItemLevel >= 82 & ClassName.EndsWith("Quivers")
+
+//----------------------------------------------
+// Main Currency
+//----------------------------------------------
+
+//BaseName == "Primed Quiver"
+
+//BaseName == "Penetrating Quiver"
+
+//BaseName == "Visceral Quiver"
+
